@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "831d68fbe4741851",
+    "type": "split",
+    "children": [
+      {
+        "id": "a058890382d44b89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22d0acf580ccf062",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3a3c80a4ba846bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3d7776e02d0e518",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9da6a3396665923f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0994426e0b3ec36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Casos",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2cb646f63ba891ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 736.5
+  },
+  "right": {
+    "id": "55dff07382d2bf7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "08aec8e4a4212e07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef1ed54347dcfc31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b94fa68699d1d6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "440f43132cbe374e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1b6362b753a6ea12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "9da6a3396665923f",
+  "lastOpenFiles": [
+    "src/src/services/urls.js",
+    "src/src/services/auth.services.js",
+    "src/src/services/webapi.services.js",
+    "src/App.js",
+    "src/README.md",
+    "src/src/services/measurementsDbServices.js",
+    "src/src/services/DbServices.js",
+    "src/src/pages/Welcome.js",
+    "src/src/pages/SignUp.js",
+    "src/src/pages/SignIn.js",
+    "src/src/pages/Profile.js",
+    "src/src/pages/Principal.js",
+    "src/assets/splash.png",
+    "src/assets/pesoperfil.png",
+    "src/assets/logo-pesoperfil.png",
+    "src/assets/icon.png",
+    "src/assets/balanca.jpg",
+    "src/assets/favicon.png",
+    "src/assets/adaptive-icon.png",
+    "docs/05-Arquitetura da Solução.md",
+    "docs/12-Apresentação do Projeto.md",
+    "docs/11-Registro de Testes de Usabilidade.md",
+    "docs/10-Plano de Testes de Usabilidade.md",
+    "docs/09-Registro de Testes de Software.md",
+    "docs/08-Plano de Testes de Software.md",
+    "docs/07-Programação de Funcionalidades.md",
+    "docs/06-Template Padrão da Aplicação.md",
+    "docs/assets/Gantt.png",
+    "docs/02-Especificação do Projeto.md",
+    "docs/img/DiagramaCdU.png",
+    "docs/img/diagramafluxo2.jpg",
+    "docs/01-Documentação de Contexto.md",
+    "docs/03-Metodologia.md"
+  ]
+}
